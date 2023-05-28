@@ -1,5 +1,8 @@
-<h1>Welcome to SvelteKit</h1>
-<p>
-  Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a>
-   to read the documentation
-</p>
+<ul>
+  <li><a href="/toxicity">toxicity</a></li>
+  <li><a href="/image-tensor/checky4x3">image-tensor/checky4x3</a></li>
+  <li><a href="/image-tensor/black">image-tensor/black</a></li>
+  <li><a href="/image-tensor/gray-alpha">image-tensor/gray-alpha</a></li>
+  <li><a href="/image-tensor/checky-tile">image-tensor/checky-tile</a></li>
+  <li><a href="/image-tensor/random">image-tensor/random</a></li>
+</ul>
